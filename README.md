@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Norbit-Online! 
 
-<!--
-**Norbit-Online/Norbit-Online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-  I'm currently working on **Realism Location Marker (RLM)** - A Tampermonkey userscript for MissionChief
+-  I'm learning **Python, JavaScript, and Discord Bot Development**
+-  I'm looking to collaborate on **MissionChief community projects**
+-  Ask me about **RLM development, Discord bots, or MissionChief gameplay**
+-  Fun fact: **There are 24 MissionChief game worlds to explore!**
 
-Here are some ideas to get you started:
+## My Projects
+-  **[Realism Location Marker](https://github.com/Norbit-Online/Realism-Location-Marker)** - Enhanced MissionChief gameplay with real-world building locations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+-  **Discord**: Available for MissionChief community discussions
+-  **MissionChief**: Active player across multiple servers
+
+---
+*Building tools to enhance the MissionChief experience* 
