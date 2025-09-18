@@ -1,18 +1,49 @@
-# Hi there, I'm Norbit-Online! 
+# Hi there, I'm Norbit-Online! 👋
 
-## About Me
--  I'm currently working on **Realism Location Marker (RLM)** - A Tampermonkey userscript for MissionChief
--  I'm learning **Python, JavaScript, and Discord Bot Development**
--  I'm looking to collaborate on **MissionChief community projects**
--  Ask me about **RLM development, Discord bots, or MissionChief gameplay**
--  Fun fact: **There are 24 MissionChief game worlds to explore!**
+## 🚀 Professional Developer & Digital Solutions Provider
 
-## My Projects
--  **[Realism Location Marker](https://github.com/Norbit-Online/Realism-Location-Marker)** - Enhanced MissionChief gameplay with real-world building locations
+Welcome to my GitHub! I'm a passionate developer specializing in **website development**, **Discord bot creation**, and **custom digital solutions**. Based at [Norbit.Online](https://norbit.online/), I help businesses and communities build their digital presence.
 
-## Connect With Me
--  **Discord**: Available for MissionChief community discussions
--  **MissionChief**: Active player across multiple servers
+## 🎯 What I Do
+
+### 🌐 Website Development
+- **Modern UI/UX Design** - Beautiful, responsive layouts
+- **Fast Performance** - Optimized for speed and user experience
+- **Custom Solutions** - Tailored to your specific needs
+
+### 🤖 Discord Development
+- **Server Setup & Management** - Professional Discord communities
+- **Custom Bot Development** - Automation and interactive features
+- **Role Management** - Streamlined community organization
+
+### 💝 Charity Support
+- **Free/Low-Cost Websites** for registered charities and nonprofits
+- **Mission-Focused Design** - Tailored to your cause
+- **Ongoing Support** - We're here for the long term
+
+## 🛠️ Current Projects
+
+- 🎯 **[Realism Location Marker (RLM)](https://github.com/Norbit-Online/Realism-Location-Marker)** - Enhanced MissionChief gameplay with real-world building locations
+- 🌐 **[Norbit.Online](https://norbit.online/)** - Professional development services and portfolio
+
+## 🎮 Gaming & Community
+
+- **MissionChief Expert** - Active across all 24 game servers
+- **Community Builder** - Creating tools that enhance gaming experiences
+- **Open Source Contributor** - Sharing knowledge with the community
+
+## 💬 Let's Connect
+
+- 🌐 **Website**: [Norbit.Online](https://norbit.online/)
+- 📧 **Email**: Available through [contact form](https://norbit.online/)
+- 🎮 **Discord**: Active in MissionChief communities
+- 💼 **Portfolio**: Check out my work at [Norbit.Online Portfolio](https://norbit.online/)
+
+## 🎯 Specialties
+
+`Python` `JavaScript` `Discord.py` `FastAPI` `Web Development` `Bot Development` `UI/UX Design` `Community Management`
 
 ---
-*Building tools to enhance the MissionChief experience* 
+*Building digital solutions that make a difference* ✨
+
+*"Your One-Stop Solution for Website and Discord Bot Development"* - [Norbit.Online](https://norbit.online/)
