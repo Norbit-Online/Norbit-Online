@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in **website devel
 
 - 🌐 **Website**: [Norbit.Online](https://norbit.online/)
 - 📧 **Email**: Available through [contact form](https://norbit.online/)
-- 🎮 **Discord**: Active in MissionChief communities
+- 🎮 **Discord**: Usually online - feel free to reach out! Username: **Madpugs**
 - 💼 **Portfolio**: Check out my work at [Norbit.Online Portfolio](https://norbit.online/)
 
 ## 🎯 Specialties
