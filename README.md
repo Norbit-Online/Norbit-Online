@@ -1,49 +1,77 @@
-# Hi there, I'm Norbit-Online! 👋
+# Hi there — I'm **Norbit-Online** / **Madpugs** 👋
 
-## 🚀 Professional Developer & Digital Solutions Provider
+**By day:** [Norbit.Online](https://norbit.online/) — websites, Discord bots, hosting, and custom digital work for UK businesses and charities.  
+**By night:** [Madpugs](https://madpugs.uk/) — gamer profile, MissionChief across 24 gameworlds, community tools, and open-source builds.
 
-Welcome to my GitHub! I'm a passionate developer specializing in **website development**, **Discord bot creation**, and **custom digital solutions**. Based at [Norbit.Online](https://norbit.online/), I help businesses and communities build their digital presence.
+Same person, two homes on the web.
 
-## 🎯 What I Do
+---
 
-### 🌐 Website Development
-- **Modern UI/UX Design** - Beautiful, responsive layouts
-- **Fast Performance** - Optimized for speed and user experience
-- **Custom Solutions** - Tailored to your specific needs
+## 🌐 Norbit.Online — studio & services
 
-### 🤖 Discord Development
-- **Server Setup & Management** - Professional Discord communities
-- **Custom Bot Development** - Automation and interactive features
-- **Role Management** - Streamlined community organization
+Professional development from [norbit.online](https://norbit.online/):
 
-### 💝 Charity Support
-- **Free/Low-Cost Websites** for registered charities and nonprofits
-- **Mission-Focused Design** - Tailored to your cause
-- **Ongoing Support** - We're here for the long term
+| | |
+|---|---|
+| 🌍 **Website** | [norbit.online](https://norbit.online/) |
+| 💼 **Portfolio** | [norbit.online/portfolio](https://norbit.online/portfolio) |
+| 💝 **Charity work** | Free and low-cost sites for registered nonprofits |
+| 🤖 **Discord** | Server setup, custom bots, moderation & automation |
+| ⚡ **Stack** | Python · FastAPI · Discord.py · modern static & hosted apps |
 
-## 🛠️ Current Projects
+**Typical delivery:** responsive UI/UX, fast pages, CRM/admin where needed, Pelican hosting, and ongoing support.
 
-- 🎯 **[Realism Location Marker (RLM)](https://github.com/Norbit-Online/Realism-Location-Marker)** - Enhanced MissionChief gameplay with real-world building locations
-- 🌐 **[Norbit.Online](https://norbit.online/)** - Professional development services and portfolio
+---
 
-## 🎮 Gaming & Community
+## 🎮 Madpugs — gamer identity
 
-- **MissionChief Expert** - Active across all 24 game servers
-- **Community Builder** - Creating tools that enhance gaming experiences
-- **Open Source Contributor** - Sharing knowledge with the community
+Personal brand and community hub at **[madpugs.uk](https://madpugs.uk/)**:
 
-## 💬 Let's Connect
+| | |
+|---|---|
+| 🏠 **Profile site** | [madpugs.uk](https://madpugs.uk/) |
+| 💬 **Discord** | **@Madpugs** — usually online |
+| 🎯 **Games** | Fortnite · MissionChief (all servers) · sims on Xbox & PC |
+| 🛠️ **Focus** | BetterDiscord plugins, RLM, MCU community tooling |
 
-- 🌐 **Website**: [Norbit.Online](https://norbit.online/)
-- 📧 **Email**: Available through [contact form](https://norbit.online/)
-- 🎮 **Discord**: Usually online - feel free to reach out! Username: **Madpugs**
-- 💼 **Portfolio**: Check out my work at [Norbit.Online Portfolio](https://norbit.online/)
+Live Discord presence on the site — built with the same Norbit stack (FastAPI + shared infra).
+
+---
+
+## 🛠️ Featured projects
+
+- 🎯 **[Realism Location Marker (RLM)](https://github.com/Norbit-Online/Realism-Location-Marker)** — real-world building locations for MissionChief
+- 🌐 **[Norbit.Online](https://norbit.online/)** — development services, portfolio, and hosting
+- 🐶 **[Madpugs](https://madpugs.uk/)** — gamer profile site (`madpugs.uk`)
+- 🚒 **MissionChief Unofficial** — Discord community tools & server management (2k+ members)
+
+---
+
+## 🎮 MissionChief & community
+
+- Active across **all 24 MissionChief gameworlds**
+- Building tools that players actually use — maps, bots, and workflow automation
+- Open-source where it helps the wider community
+
+---
+
+## 💬 Connect
+
+| Channel | Link |
+|---------|------|
+| 🌐 **Norbit (business)** | [norbit.online](https://norbit.online/) |
+| 🐶 **Madpugs (personal)** | [madpugs.uk](https://madpugs.uk/) |
+| 📧 **Contact** | [norbit.online](https://norbit.online/) contact form |
+| 💬 **Discord** | **@Madpugs** |
+
+---
 
 ## 🎯 Specialties
 
-`Python` `JavaScript` `Discord.py` `FastAPI` `Web Development` `Bot Development` `UI/UX Design` `Community Management`
+`Python` `JavaScript` `Discord.py` `FastAPI` `Web Development` `Bot Development` `UI/UX Design` `Community Management` `MissionChief` `Game Mods`
 
 ---
-*Building digital solutions that make a difference* ✨
 
-*"Your One-Stop Solution for Website and Discord Bot Development"* - [Norbit.Online](https://norbit.online/)
+*Building digital solutions by day. Dispatching, building, and modding by night.* ✨
+
+*"Your One-Stop Solution for Website and Discord Bot Development"* — [Norbit.Online](https://norbit.online/) · *Play hard. Code harder.* — [Madpugs](https://madpugs.uk/)
